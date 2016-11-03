@@ -11,7 +11,3 @@ I used Opera to inspect the traffic between the browser and the server then hack
 
 //Remember to be logged in before pasting the code into the console.
 // CRL+SHIFT+J to open console as the right-click menu is disabled by default.
-
-:)
-
-Lots of love, xxx
